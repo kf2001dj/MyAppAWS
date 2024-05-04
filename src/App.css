@@ -15,7 +15,7 @@
 
 .App-header {
   /* background-color: #282c34; */
-  background-image: url('C:\Users\DongNT\OneDrive\Desktop\MyAppAWS\clientApp\myappaws\public\tcom.jpg');
+  background-image: url("tcom.jpg");
   background-size: cover;
   min-height: 100vh;
 
